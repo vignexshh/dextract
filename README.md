@@ -10,5 +10,13 @@
 
 Dextract is a self hostable inference project that could be seamlessly integrated with most LLMs over any API service to process scanned digital documents of most viewable formats including protected variants and to extract texts, images, tables and mathematical notations while ensuring structural accuracy and pre-determined format.
 
+
+|Stage| Desc |
+|--|--|
+|MCP Setup | Create mcp support for external computes |
+|Agentic Pipeline|Agentic threading for bulk processing |
+|Add Modal, Cloud Run & AWS Support|Enable Support for cloud providers|
+
+
 </p>
 </div>
