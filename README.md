@@ -1,0 +1,1 @@
+<img src="https://github.com/vignexshh/dextract/blob/main/docs/images/dextract-readme-logo-badge.png" width="500" alt="dextract-logo">
