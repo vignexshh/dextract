@@ -8,6 +8,7 @@
 [![open issues](https://img.shields.io/github/issues-raw/vignexshh/dextract)](https://github.com/vignexshh/dextract/issues)
 [![issue resolution](https://img.shields.io/github/issues-closed-raw/vignexshh/dextract)](https://github.com/vignexshh/dextract/issues)
 
+Dextract is an self hostable open source tool that can be seamlessly integrated with standard LLM over any API service to process scanned digital documents of most viewable formats including protected formats and extract texts, images, tables and mathematical notations while ensuring structural accuracy and pre-determined format.
 
 </p>
 </div>
