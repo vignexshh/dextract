@@ -15,7 +15,6 @@ print(predictor)
 result = predictor(doc)
 
 synthetic_pages = result.synthesize()
-
 json_export = result.export()
 with open('local_files/output.json', 'w') as f:
     json.dump(json_export, f)
